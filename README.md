@@ -48,3 +48,15 @@ Develop SQL-based analytics to deliver detailed insights into:
 - **Sales Trends**
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+
+## 🛠️ Tools & Technologies
+- **Database:** SQL Server, SSMS
+- **Data Visualization:** Draw.io (Data Architecture Diagram)
+- **Version Control:** GitHub
+- **Data Format:** CSV Files
+
+## 👩‍💻 About
+Built as part of my self-learning journey in Data Analytics 
+while pursuing Chemical Engineering at IIT Jammu.
+Implemented each component independently following 
+industry best practices.
